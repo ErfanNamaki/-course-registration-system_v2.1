@@ -47,6 +47,9 @@ ModuleNotFoundError: No module named '*******'
 
 کتابخانه‌های مورد نیاز را نصب کنید:
 pip install reportlab arabic-reshaper python-bidi
+or
+pip install -r requirements.txt
+
 
 ---
 
