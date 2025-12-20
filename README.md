@@ -50,16 +50,17 @@ pip install -r requirements.txt
 
 ---
 <div dir="lrt">
-## 📂 ساختار پروژه
-course-registration-system_v2.1/
-│
-├── data/                                  # پوشه دیتابیس SQLite (registration.db اینجا ساخته می‌شود)
-├── Vazirmatn-Regular.ttf                  # فونت فارسی برای گزارش PDF
-├── How this program works.pptx            # فایل ارائه توضیح عملکرد برنامه
-├── course-registration-system_v2.1.exe    # نسخه اجرایی آماده (Windows)
-├── requirements.txt                       # لیست کتابخانه‌های مورد نیاز
-└── README.md                              # توضیحات پروژه
+  ## 📂 ساختار پروژه
+  course-registration-system_v2.1/
+  │
+  ├── data/                                  # پوشه دیتابیس SQLite (registration.db اینجا ساخته می‌شود)
+  ├── Vazirmatn-Regular.ttf                  # فونت فارسی برای گزارش PDF
+  ├── How this program works.pptx            # فایل ارائه توضیح عملکرد برنامه
+  ├── course-registration-system_v2.1.exe    # نسخه اجرایی آماده (Windows)
+  ├── requirements.txt                       # لیست کتابخانه‌های مورد نیاز
+  └── README.md                              # توضیحات پروژه
 </div>
+
 
 
 
