@@ -50,7 +50,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📂 ساختار پروژه <br/> <br/>
+## 📂 ساختار پروژه <br/></br/>
 <div dir="lrt">
 course-registration-system_v2.1/<br/>
 │<br/>
@@ -61,5 +61,6 @@ course-registration-system_v2.1/<br/>
 ├── requirements.txt                       # لیست کتابخانه‌های مورد نیاز<br/>
 └── README.md                              # توضیحات پروژه<br/>
 </div>
+
 
 
