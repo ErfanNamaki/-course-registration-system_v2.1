@@ -51,7 +51,7 @@ pip install -r requirements.txt
 ---
 
 ## 📂 ساختار پروژه
-<div dir="lrt">
+<div direction="lrt">
 course-registration-system_v2.1/
 │
 ├── data/                                  # پوشه دیتابیس SQLite (registration.db اینجا ساخته می‌شود)
@@ -61,3 +61,4 @@ course-registration-system_v2.1/
 ├── requirements.txt                       # لیست کتابخانه‌های مورد نیاز
 └── README.md                              # توضیحات پروژه
 </div>
+
