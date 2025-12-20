@@ -25,17 +25,14 @@
 ---
 
 ## ⚙️ نصب و راه‌اندازی
-
+دانلود اخرین نسخه از لینک [https://github.com/ErfanNamaki/CourseRegistrationSystem/releases/latest/download/CourseRegistrationSystem.zip]
 1. نصب فونت فارسی:
    - فایل `Vazirmatn-Regular.ttf` را در پوشه‌ی نرم‌افزار قرار دهید.
 
-2. نصب کتابخانه‌های مورد نیاز در مسیر پوشه اصلی:
-   pip install -r requirements.txt
+2. اجرای برنامه:
+   course-registration-system.exe
 
-3. اجرای برنامه:
-   course-registration-system_v2.1.exe
-
-4. ورود به سیستم:
+3. ورود به سیستم:
    - **Username:** `admin`  
    - **Password:** `admin`
 
@@ -63,3 +60,4 @@ course-registration-system_v2.1/
 ├── course-registration-system_v2.1.exe    # نسخه اجرایی آماده (Windows)
 ├── requirements.txt                       # لیست کتابخانه‌های مورد نیاز
 └── README.md                              # توضیحات پروژه
+
