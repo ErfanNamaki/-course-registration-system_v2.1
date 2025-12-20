@@ -61,5 +61,3 @@ course-registration-system_v2.1/
 ├── requirements.txt                       # لیست کتابخانه‌های مورد نیاز
 └── README.md                              # توضیحات پروژه
 </div>
-
-
